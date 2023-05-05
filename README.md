@@ -2,7 +2,9 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-matheus-da-silva-498aba24b)
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuibsMS&show_icons=true&theme=tokyonight)<br>
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuibsMS&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuibsMS&layout=compact)](https://github.com/GuibsMS/github-readme-stats)
 
 ## Tecnologias que eu utilizo:
 
