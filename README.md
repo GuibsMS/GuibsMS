@@ -22,6 +22,9 @@
 </div><br/>
 
 "A vida é um aprendizado constante, impulsiona-nos a dinâmica de sempre estarmos abertos para aprender o novo."
+
+"Life is a constant learning process, we are driven by the dynamics of always being open to learning something new."
+
 </div align="center">
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=411470&height=120&section=footer"/>
