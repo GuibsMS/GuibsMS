@@ -1,7 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5d5fe8&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=411470&height=120&section=header"/>
 
 <div align="center">
-### Olá! Eu sou o Guilherme. 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=8703F1&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+Eu+sou+o+Guilherme.%F0%9F%91%8B;Hello!+I'm+Guilherme.+%F0%9F%91%8B;Bem-vindo+ao+meu+perfil.;Welcome+to+my+profile.)](https://git.io/typing-svg)
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-matheus-da-silva-498aba24b)
 
@@ -23,4 +24,4 @@
 "A vida é um aprendizado constante, impulsiona-nos a dinâmica de sempre estarmos abertos para aprender o novo."
 </div align="center">
     
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5d5fe8&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=411470&height=120&section=footer"/>
