@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5d5fe8&height=120&section=header"/>
 
+<div align="center">
 ### Olá! Eu sou o Guilherme. 👋
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-matheus-da-silva-498aba24b)
@@ -20,5 +21,6 @@
 </div><br/>
 
 "A vida é um aprendizado constante, impulsiona-nos a dinâmica de sempre estarmos abertos para aprender o novo."
-
+</div align="center">
+    
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5d5fe8&height=120&section=footer"/>
